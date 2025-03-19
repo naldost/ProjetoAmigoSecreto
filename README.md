@@ -16,3 +16,5 @@ Tecnologias Utilizadas
 - HTML: Estrutura da página.
 - CSS: Estilização da interface.
 - JavaScript: Lógica para adicionar amigos e sortear pares.
+
+https://projeto-amigo-secreto-rust.vercel.app/
